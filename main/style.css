@@ -54,7 +54,7 @@
         .search-box {
             background: linear-gradient(135deg, #4a0e34 0%, #2d1b3d 100%);
             padding: 30px;
-            border-radius: 15px;
+            border-radius: 5px;
             box-shadow: 0 10px 30px rgba(0,0,0,0.3);
             margin-bottom: 30px;
             transition: background 0.3s;
@@ -111,7 +111,7 @@
             background: linear-gradient(135deg, #7b1fa2 0%, #4a148c 100%);
             color: white;
             border: none;
-            border-radius: 8px;
+            border-radius: 5px;
             font-size: 16px;
             font-weight: bold;
             cursor: pointer;
@@ -136,7 +136,7 @@
         .player-section {
             background: white;
             padding: 30px;
-            border-radius: 15px;
+            border-radius: 5px;
             box-shadow: 0 10px 30px rgba(0,0,0,0.3);
             margin-bottom: 30px;
         }
@@ -144,7 +144,7 @@
         #player {
             width: 100%;
             aspect-ratio: 16/9;
-            border-radius: 10px;
+            border-radius:5px;
             background: #000;
         }
 
@@ -279,7 +279,7 @@
         }
 
         .api-note {
-            font-size: 12px;
+            font-size: 11px;
             color: rgba(255,255,255,0.9);
             margin-top: 10px;
             transition: color 0.3s;

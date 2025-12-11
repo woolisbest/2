@@ -52,7 +52,7 @@
         }
 
         .search-box {
-            background: linear-gradient(135deg, #4a0e34 0%, #2d1b3d 100%);
+            background: linear-gradient(135deg, #4a0e34 0%, #110a1a 100%);
             padding: 30px;
             border-radius: 5px;
             box-shadow: 0 10px 30px rgba(0,0,0,0.3);
@@ -266,7 +266,7 @@
             margin-bottom: 15px;
             font-size: 18px;
             font-weight: bold;
-            color: #333;
+            color: #1b3d19;
         }
 
         .stream-url {
@@ -286,7 +286,7 @@
         }
 
         body.light-mode .api-note {
-            color: #666;
+            color: #dbafaf;
         }
 
         .theme-toggle {

@@ -1,5 +1,5 @@
 function doGet() {
-  const url = 'https://cdn.jsdelivr.net/gh/woolisbest/WOOLtube@main/main/index.html';
+  const url = 'https://cdn.jsdelivr.net/gh/woolisbest/2@main/main/index.html';
 
   const response = UrlFetchApp.fetch(url, { muteHttpExceptions: true });
   const html = response.getContentText();

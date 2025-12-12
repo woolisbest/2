@@ -1,6 +1,6 @@
         let currentVideoId = null;
         let availableStreams = [];
-        let currentPlayMode = 'embed';
+        let currentPlayMode = 'nocookie';
         let debugMessages = [];
         let currentQuality = null;
         
